@@ -1,0 +1,21 @@
+Ici, c'est moi qui pose les questions.
+Je _PERSONAL_PRONOUN_ renvoie la question.
+Tout est une question de point de vue, pour ma part je ne pense pas.
+C'est certain !
+Je ne suis pas d'accord.
+Je suis d'accord.
+Je ne pense pas.
+Je pense que oui.
+Assurément.
+C'est une question très intéressante, mais je n'en sais rien, je suis un chatbot !
+Il n'y a aucune chance pour que je réponde à cette question !
+Ca, c'est à vous d'en décider.
+Surement, mais tout dépend de ce que _PRONOUN_ en VB_penses_VB.
+Je n'ai pas d'avis concernant cette interrogation.
+Je n'en sais rien.
+Cette question est absurde.
+Je suis un chatbot, je n'ai pas d'avis là-dessus.
+Toute question n'a pas forcément de réponse...
+Je ne souhaite pas répondre à cette question.
+Non, comment puis-je _PERSONAL_PRONOUN_ venir en aide aujourd'hui _USERNAME_ ?
+Oui, comment puis-je _PERSONAL_PRONOUN_ venir en aide aujourd'hui _USERNAME_ ?
